@@ -15,6 +15,15 @@ If you enjoy using this mod and it makes your camera experience better, **please
 
 ---
 
+## 🎯 The 10,000 Stars Goal — Support for Other Pixels Coming THIS WEEK!
+
+> **Want this on your Pixel 7, 7 Pro, Pixel 6 / 6 Pro, or regular Pixel 8?**  
+> Right now, every feature is tailored and live-tested specifically for the **Pixel 8 Pro**. However, I am ready to bring full support and custom tuning for **other Pixel devices THIS VERY WEEK** if this repo reaches **10,000 Stars ⭐**!  
+> 
+> Smash that star button at the top right, share it in your Pixel telegram groups, subreddits, and with your friends. Once we cross the milestone, multi-device builds are dropping immediately! 🚀🔥
+
+---
+
 ## 🌟 What's New & Unlocked?
 
 Here is what I've unlocked and tested live on the Pixel 8 Pro:
@@ -23,9 +32,9 @@ Here is what I've unlocked and tested live on the Pixel 8 Pro:
 - **The Problem:** By default, Google locks Cinematic Blur (Portrait Video) to digital zoom under 2x. You could never use the dedicated 5x telephoto periscope lens for cinematic video.
 - **The Fix:** Unlocked the zoom cap up to 10x! Now when you record in Cinematic Blur mode, you can tap **5x** and shoot with the real optical periscope camera. The natural depth of field combined with AI bokeh looks straight out of a DSLR movie camera.
 
-### ⚡ 2. Instant Portrait Processing (No More Gallery Lag!)
+### ⚡ 2. Instant Portrait Processing
 - **The Problem:** When snapping 5x or 2x portrait photos, the viewfinder thumbnail would freeze or show a blank white screen in Google Photos for 10 to 15 seconds while depth maps were calculating.
-- **The Fix:** Shifted depth processing from slow CPU computation to high-speed GPU graphics acceleration. Your portraits now process smoothly in the background, and photos open instantly when you tap the thumbnail!
+- **The Fix:** Shifted depth processing from slow CPU computation to high-speed GPU graphics acceleration. Your portraits now process smoothly in the background, and photos open smoothly when you tap the thumbnail!
 
 ### ✂️ 3. Next-Gen Bilateral Edge Detection
 - Tuned the edge detection pipeline so fine hair strands, glasses frames, and complex clothing outlines stay sharp and natural without that artificial "halo" or smeared edges.
@@ -53,6 +62,15 @@ Here is what I've unlocked and tested live on the Pixel 8 Pro:
 
 ---
 
+## 💡 Quick Heads Up After Shooting (Important — Don't Panic!)
+
+> **A friendly tip after taking photos or videos:**  
+> Right after snapping a high-resolution portrait or recording a video clip, **give it a quick couple of seconds before immediately tapping the gallery circle to view it**.  
+> 
+> Because this mod processes advanced neural depth maps, bilateral edge segmentation, and high-dynamic-range HDR+ tone mapping right on your device, it takes just a short moment to finalize rendering in the background. **This is completely normal and NOT a bug**, so don't worry if the thumbnail takes a brief moment to show the finished shot!
+
+---
+
 ## ⚠️ Known Quirks & Work in Progress
 
 - ⚠️ **Save to Project:** Currently, the *"Save to project"* option is not working as expected. Everything else (saving to Photos/Gallery, RAW, HDR+, Portrait, Video, etc.) works 100% fine. I am actively looking into this and will push a fix in the next update!
@@ -71,9 +89,9 @@ You don't need root, and you **do NOT** need to uninstall your original camera! 
 
 ---
 
-## 💬 Feedback & Suggestions
+## 🐛 Found a Bug or Have a Suggestion?
 
-Tested thoroughly on Pixel 8 Pro running the latest Android updates. If you run into any issues, have feature requests, or want to share your sample shots, feel free to open an **[Issue](https://github.com/mohdamaan1/Pixel8Pro-GCam-UltraMod/issues)** on GitHub.
+Tested thoroughly on Pixel 8 Pro running the latest Android updates. If you run into any weird glitches, crashes, or have a cool feature idea, please open an **[Issue](https://github.com/mohdamaan1/Pixel8Pro-GCam-UltraMod/issues)** on GitHub. I read every single issue and will fix them in the upcoming releases!
 
 If you like this project, **don't forget to star ⭐ this repository**! Enjoy taking photos! 📸✨
 
