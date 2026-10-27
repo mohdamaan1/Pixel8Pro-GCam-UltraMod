@@ -97,9 +97,9 @@ This mod is signed and packaged with an independent package namespace (`com.goog
 
 ---
 
-## 🎯 10,000 Stars Milestone Goal ⭐
+## 🎯 300 Stars Milestone Goal ⭐
 
-Help our community grow! If this project reaches **10,000 Stars ⭐**, dedicated custom XML config tuners and specialized lens calibration profiles will be released for every individual Pixel device model. Share it with your friends and fellow Pixel users!
+Help our community grow! If this project reaches **300 Stars ⭐**, dedicated custom XML config tuners and specialized lens calibration profiles will be released for every individual Pixel device model. Share it with your friends and fellow Pixel users!
 
 ---
 
